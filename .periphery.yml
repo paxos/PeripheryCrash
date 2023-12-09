@@ -1,0 +1,5 @@
+project: PeripheryCrash.xcodeproj
+schemes:
+- PeripheryCrash
+targets:
+- PeripheryCrash
